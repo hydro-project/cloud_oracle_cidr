@@ -6,6 +6,7 @@ use clap::Parser;
 
 mod monolith;
 mod monolith_enumeration;
+mod pipelined;
 mod util;
 
 use hydroflow::tokio;
@@ -44,7 +45,7 @@ async fn main() {
     let c_scaling = [2, 10, 100, 300, 1000];
     let iterations = 5;
 
-    let implementations = &[HfImplementation::Monolith_Enumeration, HfImplementation::Monolith];
+    let implementations = &[HfImplementation::Monolith_Enumeration, HfImplementation::Monolith, HfImplementation::Pipelined];
 
     let num_filter_threads = 1;
     let num_dominated_threads = 1;
@@ -113,7 +114,7 @@ async fn create_and_run<'a>(implementation: &HfImplementation, expected_optimal_
             monolith_enumeration::create_and_run_hf(*expected_optimal_count, *num_d, *num_c, dist, latency, *dist_constraint).await
         }
         HfImplementation::Pipelined => {
-            unimplemented!()
+            pipelined::create_and_run_pipelined_hf(expected_optimal_count, num_d, num_c, dist, latency, dist_constraint, num_filter_threads, num_dominated_threads).await
         }
     }
 }
