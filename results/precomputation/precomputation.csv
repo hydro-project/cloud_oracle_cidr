@@ -1,0 +1,149 @@
+num_d, num_c, distance_constraint, implementation, duration_s
+2, 2, 200, Monolith, 0.000947805
+2, 10, 200, Monolith, 0.001030448
+2, 100, 200, Monolith, 0.000875992
+2, 300, 200, Monolith, 0.000893826
+2, 1000, 200, Monolith, 0.001037616
+10, 2, 200, Monolith, 0.001318767
+10, 10, 200, Monolith, 0.001025252
+10, 100, 200, Monolith, 0.001189501
+10, 300, 200, Monolith, 0.001605077
+10, 1000, 200, Monolith, 0.003060233
+100, 2, 200, Monolith, 2.466275885
+100, 10, 200, Monolith, 2.674893183
+100, 100, 200, Monolith, 3.958038579
+100, 300, 200, Monolith, 12.720251384
+100, 1000, 200, Monolith, 37.486178399
+300, 2, 200, Monolith, 193.832743117
+300, 10, 200, Monolith, 216.873723652
+300, 100, 200, Monolith, 599.629085248
+300, 300, 200, Monolith, 1298.158837072
+300, 1000, 200, Monolith, 2925.606130128
+1000, 2, 200, Monolith, 24013.253564944
+1000, 10, 200, Monolith, 27191.337469079
+1000, 100, 200, Monolith, 73080.678483836
+2, 2, 200, Monolith - Enumeration only, 0.000336
+2, 2, 200, Monolith - Enumeration only, 0.000322
+2, 2, 200, Monolith - Enumeration only, 0.000310625
+2, 2, 200, Monolith - Enumeration only, 0.000306334
+2, 2, 200, Monolith - Enumeration only, 0.000307375
+2, 10, 200, Monolith - Enumeration only, 0.000504833
+2, 10, 200, Monolith - Enumeration only, 0.000402167
+2, 10, 200, Monolith - Enumeration only, 0.000470375
+2, 10, 200, Monolith - Enumeration only, 0.000366333
+2, 10, 200, Monolith - Enumeration only, 0.000386458
+2, 100, 200, Monolith - Enumeration only, 0.000343708
+2, 100, 200, Monolith - Enumeration only, 0.000323792
+2, 100, 200, Monolith - Enumeration only, 0.000312042
+2, 100, 200, Monolith - Enumeration only, 0.000306584
+2, 100, 200, Monolith - Enumeration only, 0.0003045
+2, 300, 200, Monolith - Enumeration only, 0.000364417
+2, 300, 200, Monolith - Enumeration only, 0.000346334
+2, 300, 200, Monolith - Enumeration only, 0.000372042
+2, 300, 200, Monolith - Enumeration only, 0.000331334
+2, 300, 200, Monolith - Enumeration only, 0.000332458
+2, 1000, 200, Monolith - Enumeration only, 0.000363792
+2, 1000, 200, Monolith - Enumeration only, 0.00032675
+2, 1000, 200, Monolith - Enumeration only, 0.000371125
+2, 1000, 200, Monolith - Enumeration only, 0.00036475
+2, 1000, 200, Monolith - Enumeration only, 0.0003585
+10, 2, 200, Monolith - Enumeration only, 0.000351833
+10, 2, 200, Monolith - Enumeration only, 0.000368833
+10, 2, 200, Monolith - Enumeration only, 0.000366708
+10, 2, 200, Monolith - Enumeration only, 0.000331208
+10, 2, 200, Monolith - Enumeration only, 0.000320334
+10, 10, 200, Monolith - Enumeration only, 0.000362541
+10, 10, 200, Monolith - Enumeration only, 0.000381042
+10, 10, 200, Monolith - Enumeration only, 0.000383375
+10, 10, 200, Monolith - Enumeration only, 0.000370917
+10, 10, 200, Monolith - Enumeration only, 0.000364625
+10, 100, 200, Monolith - Enumeration only, 0.000344833
+10, 100, 200, Monolith - Enumeration only, 0.000382084
+10, 100, 200, Monolith - Enumeration only, 0.000367375
+10, 100, 200, Monolith - Enumeration only, 0.000356583
+10, 100, 200, Monolith - Enumeration only, 0.00038825
+10, 300, 200, Monolith - Enumeration only, 0.000454959
+10, 300, 200, Monolith - Enumeration only, 0.000453875
+10, 300, 200, Monolith - Enumeration only, 0.000428084
+10, 300, 200, Monolith - Enumeration only, 0.000363875
+10, 300, 200, Monolith - Enumeration only, 0.000355125
+10, 1000, 200, Monolith - Enumeration only, 0.0004585
+10, 1000, 200, Monolith - Enumeration only, 0.000400958
+10, 1000, 200, Monolith - Enumeration only, 0.00039425
+10, 1000, 200, Monolith - Enumeration only, 0.000406916
+10, 1000, 200, Monolith - Enumeration only, 0.000400333
+100, 2, 200, Monolith - Enumeration only, 0.000520416
+100, 2, 200, Monolith - Enumeration only, 0.000532041
+100, 2, 200, Monolith - Enumeration only, 0.000519709
+100, 2, 200, Monolith - Enumeration only, 0.000551416
+100, 2, 200, Monolith - Enumeration only, 0.000513667
+100, 10, 200, Monolith - Enumeration only, 0.00054425
+100, 10, 200, Monolith - Enumeration only, 0.00058675
+100, 10, 200, Monolith - Enumeration only, 0.000545584
+100, 10, 200, Monolith - Enumeration only, 0.000630958
+100, 10, 200, Monolith - Enumeration only, 0.000618
+100, 100, 200, Monolith - Enumeration only, 0.001068916
+100, 100, 200, Monolith - Enumeration only, 0.00108425
+100, 100, 200, Monolith - Enumeration only, 0.001062625
+100, 100, 200, Monolith - Enumeration only, 0.001053208
+100, 100, 200, Monolith - Enumeration only, 0.001237833
+100, 300, 200, Monolith - Enumeration only, 0.001935
+100, 300, 200, Monolith - Enumeration only, 0.001957584
+100, 300, 200, Monolith - Enumeration only, 0.001853833
+100, 300, 200, Monolith - Enumeration only, 0.0019525
+100, 300, 200, Monolith - Enumeration only, 0.001916417
+100, 1000, 200, Monolith - Enumeration only, 0.006147417
+100, 1000, 200, Monolith - Enumeration only, 0.006626375
+100, 1000, 200, Monolith - Enumeration only, 0.0053395
+100, 1000, 200, Monolith - Enumeration only, 0.005243334
+100, 1000, 200, Monolith - Enumeration only, 0.005122334
+300, 2, 200, Monolith - Enumeration only, 0.001734083
+300, 2, 200, Monolith - Enumeration only, 0.001764709
+300, 2, 200, Monolith - Enumeration only, 0.001726833
+300, 2, 200, Monolith - Enumeration only, 0.001841333
+300, 2, 200, Monolith - Enumeration only, 0.001764416
+300, 10, 200, Monolith - Enumeration only, 0.002143916
+300, 10, 200, Monolith - Enumeration only, 0.002103083
+300, 10, 200, Monolith - Enumeration only, 0.002176125
+300, 10, 200, Monolith - Enumeration only, 0.002108458
+300, 10, 200, Monolith - Enumeration only, 0.002163667
+300, 100, 200, Monolith - Enumeration only, 0.006656125
+300, 100, 200, Monolith - Enumeration only, 0.006646542
+300, 100, 200, Monolith - Enumeration only, 0.006627792
+300, 100, 200, Monolith - Enumeration only, 0.006640959
+300, 100, 200, Monolith - Enumeration only, 0.006705542
+300, 300, 200, Monolith - Enumeration only, 0.014433375
+300, 300, 200, Monolith - Enumeration only, 0.014414083
+300, 300, 200, Monolith - Enumeration only, 0.014453666
+300, 300, 200, Monolith - Enumeration only, 0.014554625
+300, 300, 200, Monolith - Enumeration only, 0.014541709
+300, 1000, 200, Monolith - Enumeration only, 0.042311917
+300, 1000, 200, Monolith - Enumeration only, 0.042030625
+300, 1000, 200, Monolith - Enumeration only, 0.042761875
+300, 1000, 200, Monolith - Enumeration only, 0.042651791
+300, 1000, 200, Monolith - Enumeration only, 0.042154458
+1000, 2, 200, Monolith - Enumeration only, 0.016063584
+1000, 2, 200, Monolith - Enumeration only, 0.015972334
+1000, 2, 200, Monolith - Enumeration only, 0.016433917
+1000, 2, 200, Monolith - Enumeration only, 0.01645475
+1000, 2, 200, Monolith - Enumeration only, 0.016292667
+1000, 10, 200, Monolith - Enumeration only, 0.02022175
+1000, 10, 200, Monolith - Enumeration only, 0.020230875
+1000, 10, 200, Monolith - Enumeration only, 0.02039875
+1000, 10, 200, Monolith - Enumeration only, 0.020350541
+1000, 10, 200, Monolith - Enumeration only, 0.020188791
+1000, 100, 200, Monolith - Enumeration only, 0.070317917
+1000, 100, 200, Monolith - Enumeration only, 0.069656542
+1000, 100, 200, Monolith - Enumeration only, 0.070571667
+1000, 100, 200, Monolith - Enumeration only, 0.07042825
+1000, 100, 200, Monolith - Enumeration only, 0.0702405
+1000, 300, 200, Monolith - Enumeration only, 0.155696542
+1000, 300, 200, Monolith - Enumeration only, 0.155801583
+1000, 300, 200, Monolith - Enumeration only, 0.154912916
+1000, 300, 200, Monolith - Enumeration only, 0.155964541
+1000, 300, 200, Monolith - Enumeration only, 0.15507
+1000, 1000, 200, Monolith - Enumeration only, 0.4634835
+1000, 1000, 200, Monolith - Enumeration only, 0.460739875
+1000, 1000, 200, Monolith - Enumeration only, 0.462030916
+1000, 1000, 200, Monolith - Enumeration only, 0.463110792
+1000, 1000, 200, Monolith - Enumeration only, 0.463924

@@ -1,0 +1,6 @@
+cvxpy==1.4.1
+torch==2.1.0
+numpy==1.24.3
+cvxopt==1.3.2
+tqdm==4.66.1
+pandas==2.1.3

@@ -1,0 +1,4 @@
+threads,device,batch_size,num_data_centers,num_client_data_centers,approach,solver,elapsed_time,time_per_simulation
+40,cuda,1,2,300,ApproachType.ILP,GUROBI,0.022190093994140625,0.022190093994140625
+40,cuda,1,10,300,ApproachType.ILP,GUROBI,4.308874607086182,4.308874607086182
+40,cuda,1,100,300,ApproachType.ILP,GUROBI,1105.94664144516,1105.94664144516

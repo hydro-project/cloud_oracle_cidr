@@ -1,0 +1,40 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Module",
+            "type": "python",
+            "request": "launch",
+            "module": "oracle",
+            "justMyCode": true,
+            "env": {"PYTHONPATH": "${workspaceFolder}/oracle_python"},
+            "cwd": "${workspaceFolder}/oracle_python",
+            "args": [
+                "--base-output-dir=${workspaceFolder}/test_results",
+                "--minimization",
+                //"--do-oracle",
+                "--do-ilp"
+            ]
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "justMyCode": true,
+            "env": {"PYTHONPATH": "${workspaceFolder}/oracle_python"},
+            "cwd": "${workspaceFolder}/oracle_python"
+        },
+        {
+            "name": "Python: Test File",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/oracle_python/tests/queries/test_directed_drift_query.py",
+            "console": "integratedTerminal",
+            "env": {"PYTHONPATH": "${workspaceFolder}/oracle_python"}
+        }
+    ]
+}
