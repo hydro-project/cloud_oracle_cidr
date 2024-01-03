@@ -5,12 +5,12 @@ See below for implementation and experiment details for precomputing and queryin
 
 ```
 @inproceedings{cidr_2024/cloud_oracle,
-  author       = {Tiemo Bang, Conor Power, Siavash Ameli, Natacha Crooks, Joseph M. Hellerstein},
+  author       = {Tiemo Bang and Conor Power and Siavash Ameli and Natacha Crooks and Joseph M. Hellerstein},
   title        = {Optimizing the cloud? Don’t train models. Build oracles!},
-  booktitle    = {14th Annual Conference on Innovative Data Systems Research, {CIDR} 2024 Chaminade, USA, January 14-17, 2024}
-  publisher    = {www.cidrdb.org},
+  booktitle    = {14th Annual Conference on Innovative Data Systems Research, {CIDR} 2024 Chaminade, USA, January 14-17, 2024},
+  publisher    = {{www.cidrdb.org}},
   year         = {2024},
-  url          = {https://www.cidrdb.org/cidr2024/papers/p47-bang.pdf},
+  url          = {{https://www.cidrdb.org/cidr2024/papers/p47-bang.pdf}}
 }
 ```
 
