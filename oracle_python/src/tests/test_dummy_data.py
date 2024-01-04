@@ -1,6 +1,6 @@
 import unittest
 import torch
-from oracle.dummy_data import load_linear_functions, load_linear_function_as_batch_tensor
+from cloud_oracle_prototype.dummy_data import load_linear_functions, load_linear_function_as_batch_tensor
 
 SHARED_ARGS = dict(
     num_functions = 200,

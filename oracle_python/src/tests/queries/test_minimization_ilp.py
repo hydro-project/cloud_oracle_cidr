@@ -1,5 +1,5 @@
 import unittest
-from oracle.queries.minimization_ilp import init_ilp, minimize_ilp
+from cloud_oracle_prototype.queries.minimization_ilp import init_ilp, minimize_ilp
 import numpy as np
 
 class TestMinimizationILP(unittest.TestCase):

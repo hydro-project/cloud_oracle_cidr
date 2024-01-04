@@ -1,7 +1,7 @@
 import unittest
 import torch
-from oracle.dummy_data import load_planes_with_savings
-from oracle.queries.simulation_query import init_query, simulation_query
+from cloud_oracle_prototype.dummy_data import load_planes_with_savings
+from cloud_oracle_prototype.queries.simulation_query import init_query, simulation_query
 
 LOAD_ARGS = dict(
     num_functions = 100,

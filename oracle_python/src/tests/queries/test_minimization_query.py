@@ -1,7 +1,7 @@
 import unittest
 import torch
-from oracle.dummy_data import load_linear_functions
-from oracle.queries.minimization_query import init_query, minimization_query
+from cloud_oracle_prototype.dummy_data import load_linear_functions
+from cloud_oracle_prototype.queries.minimization_query import init_query, minimization_query
 
 LOAD_ARGS = dict(
     num_functions = 200,
